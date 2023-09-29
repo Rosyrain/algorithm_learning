@@ -68,6 +68,6 @@ int main() {
         cout << "目标值对于数组下标：" << result << endl;
     }
 
-    system("pause");
+//    system("pause");
     return 0;
 }
